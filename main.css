@@ -1,0 +1,67 @@
+/** {
+    border: 3px solid rgba(204, 0, 0, 0.3);
+}*/
+body {
+    background: url("https://data4.origin.com/content/dam/originx/web/app/games/this-war-of-mine/this-war-of-mine/this-war-of-mine-war-child-charity-dlc_pdp_1920x1080_en_WW.jpg")center;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;   
+}
+
+.header {
+    /*background: url("https://data4.origin.com/content/dam/originx/web/app/games/this-war-of-mine/this-war-of-mine/this-war-of-mine-war-child-charity-dlc_pdp_1920x1080_en_WW.jpg");*/
+    width: 100%
+}
+
+#logo{
+    float: right;
+    width: 10%;
+    position: relative;
+}
+
+.header li {
+    color: #FFF;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+
+.content-box {
+    /*background: url("https://data4.origin.com/content/dam/originx/web/app/games/this-war-of-mine/this-war-of-mine/this-war-of-mine-war-child-charity-dlc_pdp_1920x1080_en_WW.jpg")center;*/
+    background-size: cover;
+    height: 800px;
+}
+
+h2{
+    color: #FFF;
+    font-family: 'Lobster',sans-serif;
+    text-transform: uppercase;
+}
+
+h1 {
+    margin: auto;
+    color: #FFF;
+    font-family: 'Lobster', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #FFF;
+    font-size: 1.2em;
+    line-height: 1.75em;
+    word-spacing: 0.1em;
+}
+.gallary {
+    padding: 3em;
+}
+.characters{
+    display: inline-block;
+    width: 18%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
